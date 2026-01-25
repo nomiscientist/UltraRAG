@@ -8,7 +8,6 @@ __pycache__/
 *.index
 
 # VSCode editor configuration
-.vscode/
 
 # Runtime and download caches
 .infinity_cache/
@@ -22,7 +21,6 @@ corpora/
 data/chat_sessions/
 data/knowledge_base/
 # Environment variables and secrets
-.env
 
 # Example configuration files
 examples/parameter/*.yaml
@@ -33,3 +31,5 @@ servers/*/server.yaml
 
 # Python package metadata
 src/*.egg-info/
+config.bat
+node_modules
